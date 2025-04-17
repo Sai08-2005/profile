@@ -1,0 +1,27 @@
+body{
+  background-color: rgb(179, 230, 170);
+}
+
+body{
+  margin:0;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.navbar{
+  background-color: rgb(54, 118, 43);
+  color:white;
+  overflow:hidden;
+}
+
+.navbar a{
+  float:right;
+  display:block;
+  text-align: center;
+  padding:14px 20px;
+  text-decoration: none;
+
+}
+
+.navbar a:hover {
+  background-color: red;
+}
